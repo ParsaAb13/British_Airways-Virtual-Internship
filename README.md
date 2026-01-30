@@ -1,7 +1,5 @@
 ✈️ British Airways Data Science Virtual Internship
-Transforming Airline Operations with Data Intelligence
-
-https://img.shields.io/badge/Python-3.8+-blue https://img.shields.io/badge/R-4.0+-blue https://img.shields.io/badge/ML-ScikitLearn-orange https://img.shields.io/badge/Status-Completed-success https://img.shields.io/badge/License-MIT-green
+Transforming Airline Operations 
 
 🎯 Executive Summary
 Two comprehensive data science projects completed during the British Airways virtual internship on Forage. This portfolio demonstrates end-to-end data solutions addressing real-world airline challenges: from operational optimization to revenue growth through predictive analytics.
