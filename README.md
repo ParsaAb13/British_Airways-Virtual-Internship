@@ -1,4 +1,4 @@
-## ✈️ British Airways Data Science Virtual Internship
+## British Airways Data Science Virtual Internship
 Transforming Airline Operations 
 
 ## 🎯 Executive Summary
